@@ -1,0 +1,38 @@
+.links{
+
+margin: 0rem 1rem;
+}
+.cart-shopping{
+    margin-left: 1.5rem;
+}
+
+.buy{
+    position:relative;
+}
+
+#btn{
+    margin-right: 4rem;
+}
+
+
+
+#clearnav.active{
+    display: block;
+}
+
+
+@media (max-width:992px){
+    .buy{
+        position: absolute;
+        top:2rem;
+        right: 1.5rem;
+    }
+    #clearnav {
+        display: none;
+    }
+}
+
+
+
+
+

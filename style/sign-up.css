@@ -1,0 +1,27 @@
+.container{
+    box-shadow: 2px 2px 5px black;
+    /* padding-bottom: 5rem; */
+    margin: 7rem auto;
+}
+.log{
+    width: 25%;
+    margin: 0 auto;
+}
+
+.row{
+    height: 70vh;
+}
+
+
+
+.x{
+    background-size: cover;
+    padding-right: 0px;
+    translate:2%;
+} 
+
+ @media(min-width:768px)and(max-width:1044){
+    .x{
+    translate: 3%;
+    }
+}
